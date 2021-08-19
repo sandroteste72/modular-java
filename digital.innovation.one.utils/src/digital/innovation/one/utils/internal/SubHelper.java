@@ -1,4 +1,4 @@
-package digital.innovation.one.utils.operation.internal;
+package digital.innovation.one.utils.internal;
 
 public class SubHelper implements Operation {
     @Override

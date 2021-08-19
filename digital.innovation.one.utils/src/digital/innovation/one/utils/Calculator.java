@@ -1,9 +1,9 @@
-package digital.innovation.one.utils.operation;
+package digital.innovation.one.utils;
 
-import digital.innovation.one.utils.operation.internal.DivHelper;
-import digital.innovation.one.utils.operation.internal.MultiHelper;
-import digital.innovation.one.utils.operation.internal.SubHelper;
-import digital.innovation.one.utils.operation.internal.SumHelper;
+import digital.innovation.one.utils.internal.MultiHelper;
+import digital.innovation.one.utils.internal.SubHelper;
+import digital.innovation.one.utils.internal.SumHelper;
+import digital.innovation.one.utils.internal.DivHelper;
 
 public class Calculator {
 
